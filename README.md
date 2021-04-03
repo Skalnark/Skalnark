@@ -1,5 +1,11 @@
 ## Alo, I'm Skal!
 
+<a href="https://git-scm.com/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/raw/master/git.svg"></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/raw/master/csharp.png"></a>
+<a href="https://archlinux.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/raw/master/arch.png"></a>
+<a href="https:/haskell.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/raw/master/haskell.png"></a>
+<a href="https://clojure.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/raw/master/clojure.png"></a>
+
 ### Social:
 
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/darciobasilio/)</a>
