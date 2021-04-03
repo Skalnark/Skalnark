@@ -12,15 +12,16 @@
 
 ### Get in touch:
 
+- :email: darciobasilio@gmail.com
+
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/darciobasilio/)
 - [<img src="https://img.shields.io/badge/Twitter-08a0e9?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/skalnark)
 
 ### Some facts about me:
 
 - :computer: I'm Software developer with focus on Backend developement.
-- :blue_heart: I'm passionate for functional programming.
-- :bulb: I like to test different paradigms, programming languages and it's concepts.
-- :email:: darciobasilio@gmail.com
+- :blue_heart: I'm passionate about functional programming.
+- :bulb: I like to experiment with different paradigms, programming languages and their concepts.
 
 ### Stats
 
