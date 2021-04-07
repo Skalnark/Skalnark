@@ -9,15 +9,15 @@ First, activate the dark mode for the sake of your eyes.
 <a href="https://archlinux.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/arch.png"></a>
 <a href="https:/haskell.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/haskell.png"></a>
 <a href="https://clojure.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/clojure.png"></a>
-<a href="https://clojure.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/docker.svg"></a>
-<a href="https://clojure.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/postgres.png"></a>
+<a href="https://docker.com/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/docker.svg"></a>
+<a href="https://postgresql.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/postgres.png"></a>
 
 ### Get in touch:
 
-- :email: darciobasilio@gmail.com
+:email: darciobasilio@gmail.com
 
-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/darciobasilio/)
-- [<img src="https://img.shields.io/badge/Twitter-08a0e9?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/skalnark)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/darciobasilio/)
+[<img src="https://img.shields.io/badge/Twitter-08a0e9?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/skalnark)
 
 ### Some facts about me:
 
