@@ -29,3 +29,5 @@ First, activate the dark mode for the sake of your eyes.
 
 <img align="center" width="480px" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=skalnark&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="center" width="480px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skalnark&layout=compact&hide=HTML,Python,CSS,Objective-C&langs_count=8&theme=tokyonight" />
+
+![](https://komarev.com/ghpvc/?username=skalnark&color=7045ff)
