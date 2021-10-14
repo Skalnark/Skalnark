@@ -1,4 +1,4 @@
-## Alo amigo, I'm Skal!
+## Oi amigo, I'm Skal!
 
 First, activate the dark mode for the sake of your eyes.
 
