@@ -1,8 +1,6 @@
-## Oi amigo, I'm Skal!
+## Hey guys, I'm Skal
 
-First, activate the dark mode for the sake of your eyes.
-
-### What I like to use to do stuff 
+### What I like to use to make things
 
 <a href="https://git-scm.com/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/git.svg"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/csharp.png"></a>
@@ -10,7 +8,9 @@ First, activate the dark mode for the sake of your eyes.
 <a href="https:/haskell.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/haskell.png"></a>
 <a href="https://clojure.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/clojure.png"></a>
 <a href="https://docker.com/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/docker.svg"></a>
-<a href="https://postgresql.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/postgres.png"></a>
+<a href="https://postgresql.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/postgres.png"></a><a href="https://postgresql.org/" target="_blank"><img width=32 height=32 src="https://user-images.githubusercontent.com/4011729/88267972-37ec0780-cd04-11ea-83a5-0da5abf67f30.png"></a>
+<a href="https://docker.com/" target="_blank"><img width=32 height=32 src="https://www.ruby-lang.org/favicon.ico"></a>
+
 
 ### Get in touch:
 
