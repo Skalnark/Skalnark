@@ -1,6 +1,6 @@
 ## Hey guys, I'm Skal
 
-### What I like to use to make things
+### What I like to use to create things
 
 <a href="https://git-scm.com/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/git.svg"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/csharp.png"></a>
