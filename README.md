@@ -1,7 +1,7 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/csharp.png"></a>
 <a href="https://archlinux.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/arch.png"></a>
 <a href="https:/haskell.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/haskell.png"></a>
-<a href="https://postgresql.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/postgres.png"></a><
+<a href="https://postgresql.org/" target="_blank"><img width=32 height=32 src="https://github.com/Skalnark/Skalnark/blob/main/src/postgres.png"></a>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/darciobasilio/)
 
